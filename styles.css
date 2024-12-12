@@ -1,0 +1,38 @@
+body{
+  background-color: antiquewhite;
+}
+/* 
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140); 
+  width: 25%;
+}
+
+th{
+  background-color: #D6EEEE;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+  border: 2px solid;
+  border-color: black;
+}
+
+tr, td {
+  border: 2px solid;
+  border-color: black;
+}
+
+tr:nth-child(odd) {
+  background-color: #9e9e9e;
+} */
+
+hr{
+  border-style: none; 
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:5px;
+  width: 30%;
+
+}
